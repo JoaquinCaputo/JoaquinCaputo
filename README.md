@@ -42,7 +42,7 @@ I'm currently looking for my first professional experience where I can grow as a
 
 ### 📫 Contact
 - 📧 Email: [joaquincaputo84@gmail.com](mailto:joaquincaputo84@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/joaquin-caputo-814a4624a](https://linkedin.com/in/joaquin-caputo-814a4624a)
+- 💼 LinkedIn: [https://linkedin.com/in/joaquin-caputo-814a4624a](https://www.linkedin.com/in/joaqu%C3%ADn-caputo-814a4624a/)
 
 ---
 
