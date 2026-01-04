@@ -32,6 +32,14 @@ I'm currently looking for my first professional experience where I can grow as a
 
 ---
 
+### 📜 Certifications
+- **Google Cybersecurity Professional Certificate**  
+  Fundamentals of cybersecurity, risk management, threat analysis, and security operations.
+  https://www.credly.com/badges/73657148-d6b7-42dd-a24d-8d343e8f2285
+
+- **Optaris Tech Talent Camp**
+
+
 ### 📫 Contact
 - 📧 Email: [joaquincaputo84@gmail.com](mailto:joaquincaputo84@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/joaquin-caputo-814a4624a](https://linkedin.com/in/joaquin-caputo-814a4624a)
