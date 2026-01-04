@@ -1,6 +1,6 @@
 ## Hi, I'm Joaquín Caputo 👋
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Joaquín%20Caputo&fontSize=40&fontColor=ffffff)
+![GitHub Banner](https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=220&section=header&text=Joaquín%20Caputo&fontSize=42&fontColor=ffffff)
 
 
 🎓 Systems Engineering student (5th year) at UTN FRLP  
