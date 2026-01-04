@@ -15,7 +15,7 @@ I'm currently looking for my first professional experience where I can grow as a
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** C#  
+- **Languages:** C#, React
 - **Platform:** .NET   
 - **Databases:** PostgreSQL  
 - **Tools:** GitHub 
